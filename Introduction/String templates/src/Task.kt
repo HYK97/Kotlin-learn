@@ -1,3 +1,8 @@
 val month = "(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)"
 
-fun getPattern(): String = TODO()
+fun getPattern(): String = """\d{2} $month \d{4}"""
+
+fun main() {
+    val pattern = getPattern()
+    println("pattern = ${pattern}")
+}
