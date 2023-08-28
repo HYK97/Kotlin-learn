@@ -3,14 +3,14 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 160
-        length: 13
+      - offset: 162
+        length: 16
         placeholder_text: .trimIndent()
         initial_state:
           length: 13
           offset: 162
         initialized_from_dependency: false
-        selected: false
+        selected: true
         status: Solved
         encrypted_possible_answer: dvM3EkWOD+M8hSdDYXjZmbZJ6slxLv+pA5C9zwH+ISo=
     encrypted_text: GwcZZaXsH0clinwW0lpuM4Rbvdd9Q76Afd1NjJq5KKDe17OTYhGjAnUSpaD9rvV+UhfpIoZay/w2yYGRQMNHFLt0+0cAME9R8UUbIFi12rrjfM+XcxA5/gfI18AfbK//O0TcHIcwhcIfWF1p0ez1v0lN73iXg1yHTR5EarhA3uONoP33/aMvSoOe0ld0IOhrZRE0A8VKZ3/C7aKNORg3lw4zJFIFLyKvdSpAjiYC2ztbln2YVEvMYhr1zqX1L0dwlRrrf41KTWZEOmX8ji5/eYsmmz/AeX3ybuU15GdeXEI=
